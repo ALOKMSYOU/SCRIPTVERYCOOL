@@ -126,7 +126,7 @@ end)
 local Help = Instance.new("TextLabel")
 Help.Size = UDim2.new(1, 0, 0, 40)
 Help.Position = UDim2.new(0, 0, 0, 230)
-Help.Text = "Unanchored Parts Only\nHold Screen to Attack (Don't Forgot Turn Turn on Chaos)"
+Help.Text = "Unanchored Parts Only\nHold Screen to Attack\nDont Touch Ground"
 Help.TextColor3 = Color3.fromRGB(120, 120, 130)
 Help.BackgroundTransparency = 1
 Help.TextSize = 11
